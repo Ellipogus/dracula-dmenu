@@ -1,6 +1,6 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [dmenu](https://tools.suckless.org/dmenu)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [dmenu](https://tools.suckless.org/dmenu).
 
 ![Screenshot](./screenshot.png)
 
@@ -14,7 +14,7 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 
 [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
 --- |
-[Zeno Rocha](https://github.com/zenorocha) |
+[Ellipog](https://github.com/zenorocha) |
 
 ## License
 
