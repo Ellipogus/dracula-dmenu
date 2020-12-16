@@ -12,6 +12,6 @@ Download using the [GitHub .zip download](https://github.com/dracula/template/ar
 
 #### Activating theme
 
-1. Do this
-2. Then that
+1. Copy config.def.h to your dmenu config.h
+2. Recompile
 3. Boom! It's working
